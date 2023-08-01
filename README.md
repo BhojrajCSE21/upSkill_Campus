@@ -23,7 +23,7 @@ git clone https://github.com/BhojrajCSE21/upskill_campus.git
 2. Navigate to the project directory.
 
 ```bash
-cd url-shortener
+cd URL_Shortener
 ```
 
 3. Create a virtual environment (optional but recommended).
