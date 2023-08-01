@@ -1,9 +1,7 @@
-# upskill_campus
+# UpSkill Campus
 The repository contains the task allocated during the Internship at UpSkill Campus
 
 # URL Shortener
-
-![URL Shortener Logo](url_shortener_logo.png)
 
 The URL Shortener is a simple web application built using Django, HTML, and CSS that allows users to shorten long URLs into short, easy-to-share links. It provides a convenient way to share long URLs on social media, emails, or any other platform with limited character space.
 
