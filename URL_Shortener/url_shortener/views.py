@@ -51,7 +51,7 @@ def analytics(request):
 
 def task(request):
     context={
-        'name':['Deepak Dass', 'Sumit Verma', 'xyz'],
+        'name':['Bhojraj Narware', 'Web Developer', 'xyz'],
         'company' :'XYZ Tech'
 
     }
